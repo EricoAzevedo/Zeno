@@ -1,0 +1,25 @@
+﻿{
+	"Quests":[
+		{
+			"questId":0,
+			"name":"Attack of goblin",
+			"description":"Old bob is sick and tired of his farm being destoryed by those dam Goblins get rid of some of them for him!",
+			"type":"hunt",
+			"monsterID":1,
+			"huntAmount": 5,
+			"goldReward": 50,
+			"expReward": 5,
+			"itemReward": 1
+		},{
+			"questId":1,
+			"name":"Attack of the bigger Goblins",
+			"description":"Bobby wants someone to get rid of the Big Goblins around town. Kill a couple of them and maybe he'll give you some gold!",
+			"type":"hunt",
+			"monsterID": 2,
+			"huntAmount": 5,
+			"goldReward": 100,
+			"expReward": 10,
+			"itemReward": 1
+		}
+		]
+}

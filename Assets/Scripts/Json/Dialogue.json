@@ -1,0 +1,45 @@
+﻿{
+	"Bob":[
+		{
+			"questAvailable":["Hello, You're new around here", "My name is Bob i run the farm around here, 
+			Those dam monster have been destorying my crop. Will you kill them for me?",
+			"Wow, that's rude of you"],
+			"questAccepted":["Whats taking you so long", "Go Kill those monsters"],
+			"questCompleted":["Thank you so much", "You're a hero", "Here is your reward"],
+			"questDone":["My crops will finally grow"],
+			"questID": 0,
+			"questionLine": 1
+		}
+		],
+	"Bobby":[
+		{
+			"questAvailable":["Hello, You look strong", "My name is bobby, 
+			Those dam monsters are getting bigger and stronger","Get rid of some of those giant goblins for me will ya?",
+			"Wow, not strong enough i guess"],
+			"questAccepted":["Cammon i believe in you", "Go Kill those monsters!"],
+			"questCompleted":["Thank you so much", "You're a hero"],
+			"questDone":["Thank you strong man/woman"],
+			"questID": 1,
+			"questionLine": 2
+		}
+		],
+	"Computer":[
+		{
+			"firstTime":["Hello, Welcome to the computer 300", 
+			"For a small fee, i can heal you. Would you like me to heal you?",
+			"Healing done! Thank you come again"],
+			"othertimes":["Would you like me to heal you?","Healing done! Thank you come again"],
+			"gold":["You don't have enough gold"],
+			"health":["You already have full health"],
+			"questionLine": 1,
+			"questionLine2": 0
+		}],
+	"ShopKeeper":[
+		{
+			"firstTime":["Hello, Welcome to my store",
+			"The store is closed but i have a couple of things on me, would you like to see?"],
+			"othertimes":["Want another look?"],
+			"questionLine": 1,
+			"questionLine2": 0
+		}]
+}

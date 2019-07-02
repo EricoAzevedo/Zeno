@@ -1,0 +1,20 @@
+﻿{
+	"Enemies":[
+		{
+			"health": 80,
+			"name": "Goblin",
+			"damage":10,
+			"iD":1,
+			"movementSpeed": 0,
+			"gold": 50	
+			},
+		{
+			"health": 200,
+			"name": "Big Goblin",
+			"damage":25,
+			"iD":2,
+			"movementSpeed": 0,
+			"gold": 100	
+		}
+		]
+}

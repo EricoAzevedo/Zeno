@@ -1,0 +1,77 @@
+﻿{
+	"Weapons":[
+		{
+			"itemID": 0,
+			"name":"Katana",
+			"attackDamage":10,
+			"description":"An old Katana Passed Down from your family",
+			"slug":"Katana",
+			"attackSpeed": 10,
+			"value":30,
+			"stackable": false
+
+		},
+		{
+			"itemID": 1,
+			"name":"Rapier",
+			"attackDamage":15,
+			"description":"A sharp rapier sword",
+			"slug":"Rapier",
+			"attackSpeed": 12,
+			"value": 50,
+			"stackable": false
+		},
+		{
+			"itemID": 2,
+			"name":"Epic Sword",
+			"attackDamage":20,
+			"description":"A sword used by the old gaurd",
+			"slug":"Epic_Sword",
+			"attackSpeed": 14,
+			"value": 80,
+			"stackable": false
+		},
+		{
+			"itemID": 3,
+			"name":"Ice Sword",
+			"attackDamage":25,
+			"description":"A Sword made for the ice king",
+			"slug":"Ice_Sword",
+			"attackSpeed": 10,
+			"value": 150,
+			"stackable": false
+		}
+		],
+	"Shield":[
+		{
+			"itemID":0,
+			"name":"Cheap Shield",
+			"armorDefence": 5,
+			"armorHealth": 10,
+			"stackable": false,
+			"description":"A pretty cheap shield.",
+			"slug":"Cheap_Shield",
+			"value": 20
+		},
+		{
+			"itemID":1,
+			"name":"Knight's Shield",
+			"armorDefence": 10,
+			"armorHealth": 15,
+			"stackable": false,
+			"description":"A shield used by the knight's gaurd.",
+			"slug":"Knights_Shield",
+			"value": 50
+		},
+		{
+			"itemID":2,
+			"name":"Skull Shield",
+			"armorDefence": 15,
+			"armorHealth": 20,
+			"stackable": false,
+			"description":"The shield used by the ice king.",
+			"slug":"Skull_Shield",
+			"value": 80
+		}
+		]
+}

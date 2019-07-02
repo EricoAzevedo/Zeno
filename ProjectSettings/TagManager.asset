@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AI
+  - Enemy
+  - Interactable
+  - Database
+  - QuestManager
+  - Collide
+  - CombatManager
+  - LoadNewScene
+  - ItemManager
+  - InventoryManager
+  - WeaponToolTip
+  - InventoryGUI
+  - SwordSlot
+  - ShopGUI
+  - ShieldSlot
+  - EnemyManager
+  - DialogGUI
+  - JournalGUI
+  - HealthGUI
+  - StaminaGUI
+  - StartGUI
+  - DeathGUI
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Shootable
+  - LightMask
+  - Invisible
+  - Obstacle
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
